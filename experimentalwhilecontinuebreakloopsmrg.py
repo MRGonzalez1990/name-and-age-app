@@ -11,3 +11,5 @@ while True:
     if x==x:
         print ('Nice name.')
         break
+
+Copyright [2025] [Mauro Ruben Gonzalez]
